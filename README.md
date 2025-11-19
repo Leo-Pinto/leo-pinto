@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hello there 👋
+My name is Leonardo. I am a student at holy trinity high-school where i am studying in the course ICD2O, where i learn a variety of different computer related subjects.
+
+#Programming languages:
+-Python
+-C#
+-HTML/CSS/JavaScript
+
+#Operating System:
+-Windows 
+-ChromeOS
+-SteamOS
+
+#Tools:
+-GitHub
+-VS Code
+-Google Colabs
+
+#Projects
 
 <!--
 **Leo-Pinto/leo-pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

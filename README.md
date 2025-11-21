@@ -32,6 +32,7 @@ My name is Leonardo. I am a student at holy trinity high-school where i am study
 #Projects
 
 # 1.  the pizza shop
+
 This project was a python version a website that allow you to order a pizza with a variety of diferent options such as toppings, size and other smaller things.
 
 In this project I had to use python to write the code, debugging to find and solve mistakes in the code, and common sense to write the code in a manner that is proper for the assigment.
@@ -47,6 +48,7 @@ In this project I had to use HTML, CSS, JavaScript, and my knowledge of websites
 [The book nook](https://leo-pinto.github.io/ICD2O/Unit1/Final/index.html)
 
 # 3. The hall of movies
+
 This project was a complex entertainment center that I was very proud to have completed. It consited of 3 sections that all had their own minigames.
 
 I had to use python and common sense on this project.
@@ -54,6 +56,7 @@ I had to use python and common sense on this project.
 [The hall of movies](https://colab.research.google.com/drive/1INAZvdKDiJeuDtWYB3X62ymUiNpMP-xM?usp=sharing)
 
 # 4. Mine sweeper validator
+
 This project takes the users input as a grid using the number -1 as bombs and depinding on how many bombs a tile is touching is the nu,ber on that tile. It then checks to see if it is valid as a mine swepeer board.
 
 During the project I used python and knowledge of mine sweeper to finish it.
@@ -61,20 +64,18 @@ During the project I used python and knowledge of mine sweeper to finish it.
 [Mine sweeper validator](https://colab.research.google.com/drive/1OnPig2lT-z6BZMrzmD-LH685zzpzFamq?usp=sharing)
 
 
-# 5. 
+# 5. Garde checker, Name game, and square root machine
 
-# 6. 
-<!--
-**Leo-Pinto/leo-pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project is a set of 3 minigames/tools the first one tells you your grade level depending on your input. The second one prints out your full name then gives you your enitials. The third and final one squares whatever number you give to it.
 
-Here are some ideas to get you started:
+To complete this project I used my knowledge of python, mathematics, and the english language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Garde checker, Name game, and square root machine](https://colab.research.google.com/drive/1nEwm0qN8g5veGZZKX1R1TdV3twj1pdJp?usp=sharing)
+
+# 6. password checker and the  A machine
+
+This project is a set made up of a game and a tool. The game is a simple one that prints out a large or small amount of rows made up soely of the letter A. The second one is a password checker that checks if your password matches its criteria.
+
+I used my knowledge of python to complete this.
+
+[password checker and the  A machine](https://colab.research.google.com/drive/1xGGDPrG7bcko2yucQzR_2WrLM-i5aEde?usp=sharing)
